@@ -105,3 +105,14 @@ pdfplumber
 python-docx
 python-dotenv
 flask
+flask
+gunicorn
+flask-cors
+openai
+faiss-cpu
+pytesseract
+pdfplumber
+python-docx
+pillow
+numpy
+python-dotenv
