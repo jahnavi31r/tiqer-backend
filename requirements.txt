@@ -104,3 +104,4 @@ pytesseract
 pdfplumber
 python-docx
 python-dotenv
+flask
